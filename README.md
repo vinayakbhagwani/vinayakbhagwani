@@ -35,7 +35,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :mailbox:How to reach me: <a href="https://in.linkedin.com/in/vinayakbhagwani">
     <img src="https://img.shields.io/badge/-vinayak-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://vinayakbhagwani.github.io/"> Contact Info </a>
+   <b> // </b> <a href="https://vinayakbhagwani.github.io/">  Contact Info </a>
   
 ---  
 
