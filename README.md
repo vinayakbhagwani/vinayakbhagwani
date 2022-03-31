@@ -6,6 +6,9 @@
   <a href="https://in.linkedin.com/in/vinayakbhagwani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.reddit.com/r/programmin_hub/">
+    <img src="https://aleen42.github.io/badges/src/reddit.svg" alt="Reddit Badge"/>
+  </a>
 </div>
 
 <div align="center">
