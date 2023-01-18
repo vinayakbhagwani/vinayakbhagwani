@@ -34,7 +34,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Software Engineer in i-exceed and contributing to frontend in mobile application development.
 
-- :seedling: Exploring Devops and Cloud computing in AWS
+- :seedling: Exploring Jetpack Compose and dependency injection in Android.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
