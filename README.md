@@ -32,11 +32,11 @@
 ### :man_technologist: About Me : 
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer in i-exceed and contributing to frontend in mobile application development.
+- :telescope: I’m working as a Software Engineer in IBM and contributing to frontend in mobile application development.
 
 - :seedling: Exploring Jetpack Compose and dependency injection in Android.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I write articles https://medium.com/@vinayakbhagwani.
 
 - :mailbox:How to reach me: <a href="https://in.linkedin.com/in/vinayakbhagwani">
     <img src="https://img.shields.io/badge/-vinayak-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
